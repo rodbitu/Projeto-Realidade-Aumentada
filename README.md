@@ -1,27 +1,27 @@
-# Projeto de Realidade Aumentada
+# Augmented Reality Project
 
-## Descrição do Projeto
+## Project Description
 
-Este projeto é uma ferramenta interativa de aprendizado que utiliza realidade aumentada para ensinar sobre diferentes tipos de estruturas celulares, como CCC (Cúbica de Corpo Centrado), CFC (Cúbica de Face Centrada), HC (Hexagonal Compacta) e outros modelos cristalinos. Ele tem como objetivo aumentar a curiosidade dos alunos e permitir uma exploração mais aprofundada das estruturas atômicas de uma forma divertida e prática.
+This project is an interactive learning tool that uses augmented reality to teach about different types of cellular structures, such as CCC (Cubic Body-Centered), CFC (Cubic Face-Centered), HC (Hexagonal Close-Packed), and other crystalline models. Its goal is to enhance students' curiosity and allow for a deeper exploration of atomic structures in a fun and practical way.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-As seguintes tecnologias foram aplicadas neste projeto para facilitar o desenvolvimento e a interação com o usuário:
+The following technologies were applied in this project to facilitate development and user interaction:
 
-- **Unity**: Utilizado para criar ambientes interativos em 3D e integrar modelos tridimensionais de estruturas celulares.
-- **Vuforia**: SDK de realidade aumentada para Unity, usado para reconhecimento e rastreamento de imagens e objetos no mundo real.
-- **Blender**: Software de modelagem 3D para a criação e animação das estruturas celulares.
-- **GitHub**: Plataforma de versionamento e colaboração de código, usada para gerenciar o desenvolvimento do projeto.
+- **Unity**: Used to create interactive 3D environments and integrate three-dimensional models of cellular structures.
+- **Vuforia**: Augmented reality SDK for Unity, used for image and object recognition and tracking in the real world.
+- **Blender**: 3D modeling software for creating and animating cellular structures.
+- **GitHub**: Versioning and code collaboration platform, used to manage project development.
 
-## Equipe
+## Team
 
 - **Luciano Silva Alves Junior**
 - **Matheus Lima Monteiro**
 - **Rodrigo Bitu de Moraes**
 
-## Repositório do Projeto
+## Project Repository
 
-Visite o repositório do projeto no GitHub para acessar o código, documentação e mais recursos:  
-[Projeto Realidade Aumentada - GitHub](https://github.com/rodbitu/Projeto-Realidade-Aumentada.git)
+Visit the project repository on GitHub to access the code, documentation, and more resources:  
+[Augmented Reality Project - GitHub](https://github.com/rodbitu/Projeto-Realidade-Aumentada.git)
 
-Este README introduz o projeto de realidade aumentada para o ensino de estruturas celulares, destacando a fusão entre tecnologia educacional e engajamento estudantil para um aprendizado mais eficaz e interativo.
+This README introduces the augmented reality project for teaching cellular structures, highlighting the fusion of educational technology and student engagement for a more effective and interactive learning experience.
